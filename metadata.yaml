@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 72339-h/images/cover.jpg
 creator:
   author:
     agent_name: Bova, Ben
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33114
     wikipedia: https://en.wikipedia.org/wiki/Ben_Bova
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72339#The-towers-of-Titan
 gutenberg_issued: '2023-12-05'
 identifiers:
   gutenberg: '72339'
